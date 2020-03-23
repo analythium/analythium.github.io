@@ -1,2 +1,2 @@
 # analythium.github.io
-GitHub repo site
+GitHub organization site
