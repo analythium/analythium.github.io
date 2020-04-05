@@ -84,22 +84,20 @@
         </div>
       </nav>
       <section class="section">
-        <div v-for="repo in repos">
-          <div class="container">
-            <div class="columns">
-              <div class="column is-8 is-offset-2">
-                <div class="card">
-                  <header class="card-header">
-                    <p class="card-header-title">
-                      <a :href="repo.html_url" target="_blank"
-                        >{{ repo.name }}</a
-                      >
-                    </p>
-                  </header>
-                  <div class="card-content">
-                    <div class="content">
-                      {{ repo.description }}
-                    </div>
+        <div class="container">
+          <div class="columns is-multiline">
+            <div class="column is-6" v-for="repo in repos">
+              <div class="card">
+                <header class="card-header">
+                  <p class="card-header-title">
+                    <a :href="repo.html_url" target="_blank"
+                      >{{ repo.name }}</a
+                    >
+                  </p>
+                </header>
+                <div class="card-content">
+                  <div class="content">
+                    {{ repo.description }}
                   </div>
                 </div>
               </div>
