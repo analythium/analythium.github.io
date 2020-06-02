@@ -104,14 +104,14 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/analythium/analythium.github.io/edit/master/',
+            'https://github.com/analythium/analythium.github.io/edit/source/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/analythium/analythium.github.io/edit/master/',
+            'https://github.com/analythium/analythium.github.io/edit/source/',
           path: 'blog',
           postsPerPage: 5,
           feedOptions: {
