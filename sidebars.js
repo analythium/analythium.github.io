@@ -1,8 +1,8 @@
 module.exports = {
   someSidebar: {
     Introduction: ['introduction'],
-    Build: ['doc1', 'doc2'],
-    Operate: ['mdx'],
-    Manage: ['doc3'],
+    Build: ['build', 'shiny'],
+    Operate: ['operate', 'shinyproxy', 'faas'],
+    Manage: ['manage', 'covidapp'],
   },
 };

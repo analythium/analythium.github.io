@@ -1,7 +1,7 @@
 ---
 id: introduction
 title: Introduction
-sidebar_label: Introduction
+sidebar_label: Get started
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
