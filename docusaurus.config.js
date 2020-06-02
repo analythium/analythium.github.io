@@ -114,6 +114,10 @@ module.exports = {
             'https://github.com/analythium/analythium.github.io/edit/master/',
           path: 'blog',
           postsPerPage: 5,
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} Analythium Solutions Inc.`,
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
