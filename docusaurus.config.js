@@ -1,7 +1,7 @@
 // check https://github.com/facebook/docusaurus/blob/master/website/docusaurus.config.js
 module.exports = {
   title: 'Analythium Hub',
-  tagline: 'Rock solid and open source analytics at your service',
+  tagline: 'We build and operate rock solid analytics solutions so you can manage your business better',
   url: 'https://hub.analythium.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
