@@ -38,7 +38,7 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://github.com/analythium/analythium.github.io',
+          href: 'https://github.com/analythium/',
           label: 'GitHub',
           position: 'right',
         },
