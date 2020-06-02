@@ -8,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: <>Build</>,
+    imageUrl: 'img/undraw_abstract_x68e_build.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Designing and building powerful data science applications is at the heart of what we do. <a href="docs/doc1">See how we are doing it →</a>
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: <>Operate</>,
+    imageUrl: 'img/undraw_programmer_imem_operate.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Deploying app securely and operating at scale is no small feat. <a href="docs/doc1">Check out the technologies we develop →</a>
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>Manage</>,
+    imageUrl: 'img/undraw_personal_goals_edgd_manage.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Apps are meant to be used to make decisions in the real world. <a href="docs/doc1">Browse some of our examples →</a>
       </>
     ),
   },
@@ -60,7 +57,7 @@ function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Rock solid and open source analytics at your service <head />">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
@@ -72,7 +69,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
-              Get Started
+              Get started →
             </Link>
           </div>
         </div>
