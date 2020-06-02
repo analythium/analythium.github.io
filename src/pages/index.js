@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/undraw_abstract_x68e_build.svg',
     description: (
       <>
-        Designing and building powerful data science applications is at the heart of what we do. <a href="docs/doc1">See how we are doing it →</a>
+        Designing and building powerful data science applications is at the heart of what we do.<br /><a href="docs/build">See how we are doing it →</a>
       </>
     ),
   },
@@ -21,7 +21,7 @@ const features = [
     imageUrl: 'img/undraw_programmer_imem_operate.svg',
     description: (
       <>
-        Deploying app securely and operating at scale is no small feat. <a href="docs/doc1">Check out the technologies we develop →</a>
+        Deploying app securely and operating at scale is no small feat.<br /><a href="docs/operate">Check out the technologies we develop →</a>
       </>
     ),
   },
@@ -30,7 +30,7 @@ const features = [
     imageUrl: 'img/undraw_personal_goals_edgd_manage.svg',
     description: (
       <>
-        Apps are meant to be used to make decisions in the real world. <a href="docs/doc1">Browse some of our examples →</a>
+        Apps are meant to be used to make decisions in the real world.<br /><a href="docs/manage">Browse some of our examples →</a>
       </>
     ),
   },
