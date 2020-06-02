@@ -12,6 +12,11 @@ module.exports = {
       'The hub for open source projects by Analythium.',
   },
   themeConfig: {
+    announcementBar: {
+      id: 'supportus',
+      content:
+        '⭐️ Check out our <a target="_blank" rel="noopener noreferrer" href="https://hub.analythium.io/covidapp">COVID-19 app</a>! ⭐️',
+    },
     navbar: {
       hideOnScroll: true,
       title: 'Analythium Hub',
@@ -43,19 +48,6 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Style Guide',
-              to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
-          ],
-        },
-        {
           title: 'Social',
           items: [
             {
@@ -66,26 +58,31 @@ module.exports = {
               label: 'LinkedIn',
               href: 'https://www.linkedin.com/company/analythium/',
             },
-            {
-              label: 'Facebook',
-              href: 'https://www.facebook.com/analythium',
-            },
           ],
         },
         {
-          title: 'Link',
+          title: 'Links',
           items: [
             {
               label: 'Analythium.io',
               href: 'https://www.analythium.io/',
             },
             {
-              label: 'Blog',
+              label: 'Analythium blog',
               to: 'https://blog.analythium.io',
             },
+          ],
+        },
+        {
+          title: 'Legal',
+          items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/analythium',
+              label: 'Privacy policy',
+              href: 'https://www.analythium.io/privacy/',
+            },
+            {
+              label: 'Terms of service',
+              to: 'https://www.analythium.io/terms/',
             },
           ],
         },
