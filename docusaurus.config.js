@@ -7,12 +7,18 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'analythium', // Usually your GitHub org/user name.
   projectName: 'analythium.github.io', // Usually your repo name.
+  customFields: {
+    description:
+      'The hub for open source projects by Analythium.',
+  },
   themeConfig: {
     navbar: {
+      hideOnScroll: true,
       title: 'Analythium Hub',
       logo: {
         alt: 'Analythium Logo',
         src: 'img/logo.svg',
+        srcDark: 'img/logo-light.svg',
       },
       links: [
         {
@@ -21,7 +27,11 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {
+          to: 'blog', 
+          label: 'Blog', 
+          position: 'left',
+        },
         {
           href: 'https://github.com/analythium/analythium.github.io',
           label: 'GitHub',
@@ -46,24 +56,32 @@ module.exports = {
           ],
         },
         {
-          title: 'Connect',
+          title: 'Social',
           items: [
-            {
-              label: 'LinkedIn',
-              href: 'https://linkedin.com/company/analythium',
-            },
             {
               label: 'Twitter',
               href: 'https://twitter.com/analythium',
             },
+            {
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/company/analythium/',
+            },
+            {
+              label: 'Facebook',
+              href: 'https://www.facebook.com/analythium',
+            },
           ],
         },
         {
-          title: 'More',
+          title: 'Link',
           items: [
             {
+              label: 'Analythium.io',
+              href: 'https://www.analythium.io/',
+            },
+            {
               label: 'Blog',
-              to: 'blog',
+              to: 'https://blog.analythium.io',
             },
             {
               label: 'GitHub',
@@ -82,16 +100,20 @@ module.exports = {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
           homePageId: 'doc1',
+          path: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/analythium/analythium.github.io/edit/master/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/analythium/analythium.github.io/edit/master/website/blog/',
+            'https://github.com/analythium/analythium.github.io/edit/master/',
+          path: 'blog',
+          postsPerPage: 5,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
