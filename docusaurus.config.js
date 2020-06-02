@@ -33,8 +33,8 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'blog', 
-          label: 'Blog', 
+          to: 'blog/', 
+          label: 'News', 
           position: 'left',
         },
         {
@@ -96,7 +96,7 @@ module.exports = {
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'doc1',
+          homePageId: 'introduction',
           path: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
