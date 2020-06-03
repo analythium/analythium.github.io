@@ -1,7 +1,6 @@
 ---
 id: introduction
 title: Introduction
-sidebar_label: Get started
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
@@ -96,6 +95,15 @@ Reference-style: ![alt text][logo]
 ```javascript
 var s = 'JavaScript syntax highlighting';
 alert(s);
+```
+
+```r
+r <- "R syntax highlighting"
+print(r)
+
+f <- function(x, ...) {
+  x + 2
+}
 ```
 
 ```python

@@ -1,21 +1,28 @@
-// check https://github.com/facebook/docusaurus/blob/master/website/docusaurus.config.js
 module.exports = {
   title: 'Analythium Hub',
   tagline: 'We build and operate rock solid analytics solutions so you can manage your business better',
   url: 'https://hub.analythium.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'analythium', // Usually your GitHub org/user name.
-  projectName: 'analythium.github.io', // Usually your repo name.
+  organizationName: 'analythium',
+  projectName: 'analythium.github.io',
   customFields: {
     description:
       'The hub for open source projects by Analythium.',
   },
   themeConfig: {
+    image: 'img/hub-thumb.png',
     announcementBar: {
       id: 'supportus',
       content:
         '⭐️ Check out our <a target="_blank" rel="noopener noreferrer" href="https://hub.analythium.io/covidapp">COVID-19 app</a>! ⭐️',
+      backgroundColor: '#ce93d8',
+      textColor: '#091E42'
+    },
+    prism: {
+      additionalLanguages: ['r'],
+      theme: require('prism-react-renderer/themes/dracula'),
+      darkTheme: require('prism-react-renderer/themes/dracula'),
     },
     navbar: {
       hideOnScroll: true,
@@ -24,6 +31,8 @@ module.exports = {
         alt: 'Analythium Logo',
         src: 'img/logo.svg',
         srcDark: 'img/logo-light.svg',
+        href: 'https://hub.analythium.io/',
+        target: '_self',
       },
       links: [
         {
@@ -95,11 +104,9 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          // It is recommended to set document id as docs home page (`docs/` path).
           homePageId: 'introduction',
           path: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl:
             'https://github.com/analythium/analythium.github.io/edit/source/',
           showLastUpdateAuthor: true,
