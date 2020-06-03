@@ -21,7 +21,7 @@ const features = [
     imageUrl: 'img/undraw_programmer_imem_operate.svg',
     description: (
       <>
-        Deploying app securely and operating at scale is no small feat.<br /><a href="docs/operate">Check out the technologies we develop →</a>
+        Deploying apps securely and operating at scale is no small feat.<br /><a href="docs/operate">Check out the technologies we develop →</a>
       </>
     ),
   },
