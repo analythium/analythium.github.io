@@ -8,7 +8,7 @@ keywords:
   - Documentation
   - Analythium
   - Analythium Hub
-image: https://unsplash.com/photos/M5tzZtFCOfs
+image: https://source.unsplash.com/M5tzZtFCOfs
 ---
 
 ![Operate stage](../../img/undraw_programmer_imem_operate.svg)

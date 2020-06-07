@@ -8,12 +8,12 @@ tags: [analythium, hello, hub]
 draft: false
 ---
 
-![Welcome to the hub!](https://unsplash.com/photos/br9D5K3UTRQ)
-
 Welcome to the Analythium Hub! In this corner of the Internet, we talk about how we make things.
 The Hub is a website for [Analythium](https://analythium.io)'s public and open source projects.
 
 <!--truncate-->
+
+![Welcome to the Hub!](https://source.unsplash.com/br9D5K3UTRQ)
 
 We will occasionally post [*News*](https://hub.analythium.io/blog/)
 that are relevant to the **power users** and

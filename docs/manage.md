@@ -8,7 +8,7 @@ keywords:
   - Documentation
   - Analythium
   - Analythium Hub
-image: https://unsplash.com/photos/pb_lF8VWaPU
+image: https://source.unsplash.com/pb_lF8VWaPU
 ---
 
 ![Manage stage](../../img/undraw_personal_goals_edgd_manage.svg)

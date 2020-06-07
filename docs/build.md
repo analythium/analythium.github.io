@@ -8,7 +8,7 @@ keywords:
   - Documentation
   - Analythium
   - Analythium Hub
-image: https://unsplash.com/photos/3GZi6OpSDcY
+image: https://source.unsplash.com/3GZi6OpSDcY
 ---
 
 ![Build stage](../../img/undraw_abstract_x68e_build.svg)

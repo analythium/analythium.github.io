@@ -7,7 +7,7 @@ keywords:
   - Documentation
   - Analythium
   - Analythium Hub
-image: https://unsplash.com/photos/br9D5K3UTRQ
+image: https://source.unsplash.com/br9D5K3UTRQ
 ---
 
 ![Analythium Mark](http://hub.analythium.io/assets/marks/word-mark-dark1-wide.png)
