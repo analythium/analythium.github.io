@@ -2,9 +2,16 @@
 id: operate
 title: Operate
 sidebar_label: Introduction
+description: Customized operations to match the needs of our customers.
+keywords:
+  - Docs
+  - Documentation
+  - Analythium
+  - Analythium Hub
+image: https://unsplash.com/photos/M5tzZtFCOfs
 ---
 
-![Operate stage](https://analythium.github.io/img/undraw_programmer_imem_operate.svg)
+![Operate stage](../../img/undraw_programmer_imem_operate.svg)
 
 Once our solution is ready to be showcased, we deploy it using
 industry best practices, such as continuous integration and continuous delivery.
