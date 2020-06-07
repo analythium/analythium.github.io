@@ -6,6 +6,13 @@ author_url: https://github.com/psolymos
 author_image_url: https://avatars1.githubusercontent.com/u/831636?s=460&u=578a952663eae17b2a2dd008ea9511db308d1822&v=4
 tags: [analythium, hello, hub]
 draft: false
+description: Description.
+keywords:
+  - Docs
+  - Documentation
+  - Analythium
+  - Analythium Hub
+image: https://source.unsplash.com/M5tzZtFCOfs
 ---
 
 Welcome to the Analythium Hub! In this corner of the Internet, we talk about how we make things.
