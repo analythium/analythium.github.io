@@ -6,18 +6,18 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Build',
-      items: ['build', 'shiny'],
+      label: 'Development',
+      items: ['development', 'shiny'],
     },
     {
       type: 'category',
-      label: 'Operate',
-      items: ['operate', 'shinyproxy', 'faas'],
+      label: 'Operations',
+      items: ['operations', 'shinyproxy', 'faas'],
     },
     {
       type: 'category',
-      label: 'Manage',
-      items: ['manage', 'covidapp'],
+      label: 'Impact',
+      items: ['impact', 'covidapp'],
     },
   ],
 };

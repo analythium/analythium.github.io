@@ -1,6 +1,6 @@
 ---
-id: operate
-title: Operate
+id: operations
+title: Operations
 sidebar_label: Introduction
 description: Customized operations to match the needs of our customers.
 keywords:
@@ -11,11 +11,11 @@ keywords:
 image: https://source.unsplash.com/M5tzZtFCOfs
 ---
 
-![Operate stage](../../img/undraw_programmer_imem_operate.svg)
+![Operations stage](../../img/undraw_programmer_imem_operate.svg)
 
 Once our solution is ready to be showcased, we deploy it using
 industry best practices, such as continuous integration and continuous delivery.
 We maintain the apps on secure servers and give access to authenticated users.
-We use tested technologies and [customize our operations](operate)
+We use tested technologies and [customize our operations](operations)
 to match the needs of our customers.
 

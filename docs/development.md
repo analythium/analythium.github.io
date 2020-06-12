@@ -1,6 +1,6 @@
 ---
-id: build
-title: Build
+id: development
+title: Development
 sidebar_label: Introduction
 description: How to quickly build prototypes for data analytics applications.
 keywords:
@@ -17,5 +17,5 @@ The Analythium Hub is where we showcase how we go from idea to building interact
 web applications that integrate robust statistical and machine learning
 capabilities and expressive visualization.
 
-This is the [build](build) stage, and in the next sections we will
+This is the [development](development) stage, and in the next sections we will
 explore how to quickly build prototypes.

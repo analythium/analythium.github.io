@@ -8,29 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Build</>,
+    title: <>Development</>,
     imageUrl: 'img/undraw_abstract_x68e_build.svg',
     description: (
       <>
-        Designing and building powerful data science applications is at the heart of what we do.<br /><a href="docs/build">See how we are doing it →</a>
+        Designing and building powerful data science applications is at the heart of what we do.<br /><a href="docs/development">See how we are doing it →</a>
       </>
     ),
   },
   {
-    title: <>Operate</>,
+    title: <>Operations</>,
     imageUrl: 'img/undraw_programmer_imem_operate.svg',
     description: (
       <>
-        Deploying apps securely and operating at scale is no small feat.<br /><a href="docs/operate">Check out the technologies we develop →</a>
+        Deploying apps securely and operating at scale is no small feat.<br /><a href="docs/operations">Check out the technologies we develop →</a>
       </>
     ),
   },
   {
-    title: <>Manage</>,
+    title: <>Impact</>,
     imageUrl: 'img/undraw_personal_goals_edgd_manage.svg',
     description: (
       <>
-        Apps are meant to be used to make decisions in the real world.<br /><a href="docs/manage">Browse some of our examples →</a>
+        Apps are meant to be used to make decisions in the real world.<br /><a href="docs/impact">Browse some of our examples →</a>
       </>
     ),
   },

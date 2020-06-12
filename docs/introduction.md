@@ -34,8 +34,6 @@ problems are best solved using data science methods and algorithms.
 
 ## How we do it
 
-We do it like BOM: **B**uild, **O**perate, and **M**anage:
-
-1. once we identified a need, we start building a prototype. We keep iterating on the prototype until we can [build](build) a product that we can start showcasing to clients,
-2. then we deploy as part of our [operations](operate) using proven technologies,
-3. the final product is then ready to be showcased and used [improve management decisions](manage).
+1. once we identified a need, we start building a prototype. We keep iterating on the prototype until we can [develop](development) a product that we can start showcasing to clients,
+2. then we deploy as part of our [operations](operations) using proven technologies,
+3. the final product is then ready to be showcased and make an [impact](impact).
