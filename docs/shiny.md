@@ -11,7 +11,7 @@ keywords:
 image: https://source.unsplash.com/3GZi6OpSDcY
 ---
 
-![Shiny from RStudio](../../img/shiny-rstudio.png 'Shiny from RStudio')
+![Shiny from RStudio](../../img/shiny/shiny-rstudio.png 'Shiny from RStudio')
 
 ## What is R?
 
@@ -45,7 +45,7 @@ to get going quicker.
 
 Install Shiny by running the following line in R:
 
-```R
+```r
 install.packages("shiny")
 ```
 
@@ -53,13 +53,14 @@ install.packages("shiny")
 
 The following simple example draws a histogram of randomly generated
 numbers between 0 and 1. As you increase the number of observations,
-the top of the histogram goes from wiggly to straight:
+the top of the distribution changes slightly:
 
-<iframe width="100%" height="540" src="https://shiny.rstudio.com/gallery/single-file-shiny-app.html" frameborder="0"></iframe>
+![Shiny from RStudio](../../img/shiny/shiny-hello.gif 'Shiny Hello')
 
+We are going to build this simple Shiny app next.
 ### Structure of a Shiny app
 
-The next sections will show how Shiny apps are structured:
+The following sections will show how Shiny apps are structured:
 
 1. the [user interface (UI)](shiny-ui),
 2. the [server function](shiny-server),
