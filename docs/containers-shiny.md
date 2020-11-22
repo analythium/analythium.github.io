@@ -57,5 +57,11 @@ docker run -p 4000:3838 registry.gitlab.com/analythium/shinyproxy-hello/hello
 ```
 then visit `127.0.0.1:4000`.
 
-(c) Copyright Analythium Solutions Inc, 2019-2020 (MIT).
+![Shiny request/response](../../img/docker/shiny-req-res.png 'Shiny request/response')
 
+Further reading:
+
+* [R Docker tutorial](https://ropenscilabs.github.io/r-docker-tutorial/)
+* [Docker for R users](https://colinfay.me/docker-r-reproducibility/)
+* [An Introduction to Rocker](https://journal.r-project.org/archive/2017/RJ-2017-065/RJ-2017-065.pdf)
+* [The Rockerverse](https://journal.r-project.org/archive/2020/RJ-2020-007/RJ-2020-007.pdf)
