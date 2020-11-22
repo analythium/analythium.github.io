@@ -11,13 +11,18 @@ keywords:
 image: https://source.unsplash.com/3GZi6OpSDcY
 ---
 
+R is the language of statistical computing, Shiny is the fastest way to build interactive data science applications.
+
 ![Shiny from RStudio](../../img/shiny/shiny-rstudio.png 'Shiny from RStudio')
 
-## What is R?
+## What is R
 
 [R](https://www.r-project.org/) is a free software environment for
 statistical computing and graphics. It compiles and runs on a wide
 variety of operating systems.
+
+Visit the Comprehensive R Archive Network
+([CRAN](https://cran.r-project.org/)) for installation instructions.
 
 R, either using its base functionality or the
 [tidyverse](https://www.tidyverse.org/) packages,
@@ -38,10 +43,9 @@ and [book](https://mastering-shiny.org/) for accessible introductions.
 
 ### Installing Shiny
 
-You need R installed. Useful to also have an integrated development
+Once you have R installed, it is also useful to have an integrated development
 environment (IDE): pick either the free [RStudio Desktop](https://rstudio.com/products/rstudio/download/)
-or [VS Code](https://code.visualstudio.com/download) with [R language support](https://github.com/Ikuyadeu/vscode-R)
-to get going quicker.
+or [VS Code](https://code.visualstudio.com/download) with [R language support](https://github.com/Ikuyadeu/vscode-R).
 
 Install Shiny by running the following line in R:
 
@@ -58,6 +62,7 @@ the top of the distribution changes slightly:
 ![Shiny from RStudio](../../img/shiny/shiny-hello.gif 'Shiny Hello')
 
 We are going to build this simple Shiny app next.
+
 ### Structure of a Shiny app
 
 The following sections will show how Shiny apps are structured:

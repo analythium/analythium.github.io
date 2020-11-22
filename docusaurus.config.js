@@ -96,6 +96,11 @@ module.exports = {
           ],
         },
       ],
+      logo: {
+        alt: 'Analythium Logo',
+        src: 'https://hub.analythium.io/assets/marks/word-mark-dark-yellow-wide.png',
+        href: 'https://hub.analythium.io',
+      },      
       copyright: `Copyright © ${new Date().getFullYear()} Analythium Solutions Inc.`,
     },
   },

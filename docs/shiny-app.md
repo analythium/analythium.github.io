@@ -41,22 +41,23 @@ server <- function(input, output) {
 shinyApp(ui = ui, server = server)
 ```
 
-What's new here is that we bassed `ui` and `server` to `shinyApp()` which
-is the Shiny app object. This is passed to `runApp()` which will the run the app.
+What's new here is that we passed `ui` and `server` to `shinyApp()` which
+returns the Shiny app object. This is passed to `runApp()` via the implicit print method to run the app.
+
 The `runApp()` function can also take the
-`index.R` file as argument because the file returns the app object:
+`app.R` file as argument because the file returns the app object:
 `runApp("app.R")`.
 
 ## Multiple file app
 
-Alternatively, we can specify a directory where the `app.R` file can be found.
+An alternative to having everything for our app in a single `app.R` file, we can specify a directory where the `app.R` file can be found.
 However, when a directory is specified, we can have the Shiny app components
-in separate files. This usually helps maintaining when they grow more complex.
+in separate files. This usually helps in maintaining the app when it grows more complex.
 
 It is good practice to create a `global.R` file with all the prerequisites
-required by the app, i.e. loading libraries, data sets, running data
+required by the app, i.e. loading libraries, scripts, data sets, running data
 processing or defining functions. In our simple case we only load
-the shiny package:
+the shiny package. Thus in our `global.R` file we'll have the following line:
 
 ```r
 library(shiny)
@@ -77,7 +78,7 @@ ui <- fluidPage(
 )
 ```
 
-Similarly, we have a `server.R` file:
+Similarly, we have a `server.R` file defining the `server` function:
 
 ```r
 server <- function(input, output) {
@@ -90,12 +91,15 @@ server <- function(input, output) {
 }
 ```
 
+We can now point `runApp()` to this directory.
+
 ## Deployment
 
 Next we will look at Shiny app deployment.
 Besides the officially recommended
-deployment options, there are other possibilities.
-One particular option that we will see in depth is the
+deployment options, such as [shinyapps.io](https://www.shinyapps.io/)
+or the [open source Shiny server](https://rstudio.com/products/shiny/download-server/), there are other possibilities.
+One particular option that we will review in depth is the
 deployment of Shiny apps via Docker and ShinyProxy. Read on!
 
 Further reading:

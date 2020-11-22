@@ -7,6 +7,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Shiny',
+//      collapsed: false,
       items: ['shiny', 'shiny-ui', 'shiny-server', 'shiny-app'],
     },
     {

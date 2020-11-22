@@ -10,7 +10,7 @@ objects are created by Shiny when the session begins and passed to the server
 function.
 
 `input` is used to pass the control values, in this case `input$obs` the number
-of observations. Noice how it is used to generate random numbers from
+of observations. Notice how it is used to generate random numbers from
 a Normal distribution:
 
 ```r
@@ -24,7 +24,8 @@ server <- function(input, output) {
 }
 ```
 
-The `output` object contains the state of the app, in our case the rendered plot.
+The `output` object contains the output objects, in our case the rendered plot.
+`input` and `output` together describe the state of the app.
 
 Further reading:
 
