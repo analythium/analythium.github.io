@@ -6,18 +6,18 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Development',
-      items: ['development', 'shiny'],
+      label: 'Shiny',
+      items: ['shiny', 'shiny-ui', 'shiny-server', 'shiny-app'],
     },
     {
       type: 'category',
-      label: 'Operations',
-      items: ['operations', 'shinyproxy', 'faas'],
+      label: 'Containers',
+      items: ['containers', 'containers-docker', 'containers-shiny'],
     },
     {
       type: 'category',
-      label: 'Impact',
-      items: ['impact', 'covidapp'],
+      label: 'ShinyProxy',
+      items: ['shinyproxy', 'shinyproxy-setup', 'shinyproxy-secure', 'shinyproxy-update', 'shinyproxy-webhook'],
     },
   ],
 };

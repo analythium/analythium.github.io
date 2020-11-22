@@ -9,10 +9,10 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>R and Shiny</>,
-    imageUrl: 'img/undraw_personal_goals_edgd_manage.svg',
+    imageUrl: 'img/undraw_programmer_imem_operate.svg',
     description: (
       <>
-        R is the language of statistical computing, Shiny is the fastest way to build interactive data science applications.<br /><a href="docs/impact">Read more →</a>
+        R is the language of statistical computing, Shiny is the fastest way to build interactive data science applications.<br /><a href="docs/shiny">Read more →</a>
       </>
     ),
   },
@@ -21,16 +21,16 @@ const features = [
     imageUrl: 'img/undraw_abstract_x68e_build.svg',
     description: (
       <>
-        Containers provide portability, consistency, and are used for packaging, deploying, and running cloud-native data science applications.<br /><a href="docs/development">Read more →</a>
+        Containers provide portability, consistency, and are used for packaging, deploying, and running cloud-native data science applications.<br /><a href="docs/containers">Read more →</a>
       </>
     ),
   },
   {
     title: <>ShinyProxy</>,
-    imageUrl: 'img/undraw_programmer_imem_operate.svg',
+    imageUrl: 'img/undraw_personal_goals_edgd_manage.svg',
     description: (
       <>
-        Run data science applications with no limit on concurrent usage, add security, authentication, and authorization.<br /><a href="docs/operations">Read more →</a>
+        Run data science applications with no limit on concurrent usage, add security, authentication, and authorization.<br /><a href="docs/shinyproxy">Read more →</a>
       </>
     ),
   },

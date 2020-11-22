@@ -4,7 +4,7 @@ author: Peter Solymos
 author_title: Co-founder & CTO of Analythium
 author_url: https://github.com/psolymos
 author_image_url: https://avatars1.githubusercontent.com/u/831636?s=460&u=578a952663eae17b2a2dd008ea9511db308d1822&v=4
-tags: [R, Shiny, ShinyProxy, Digitalocean, Marketplace]
+tags: [R, Shiny, ShinyProxy, DigitalOcean, Marketplace]
 draft: false
 ---
 
