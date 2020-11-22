@@ -8,29 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Development</>,
-    imageUrl: 'img/undraw_abstract_x68e_build.svg',
-    description: (
-      <>
-        Designing and building powerful data science applications is at the heart of what we do.<br /><a href="docs/development">See how we are doing it →</a>
-      </>
-    ),
-  },
-  {
-    title: <>Operations</>,
-    imageUrl: 'img/undraw_programmer_imem_operate.svg',
-    description: (
-      <>
-        Deploying apps securely and operating at scale is no small feat.<br /><a href="docs/operations">Check out the technologies we develop →</a>
-      </>
-    ),
-  },
-  {
-    title: <>Impact</>,
+    title: <>R and Shiny</>,
     imageUrl: 'img/undraw_personal_goals_edgd_manage.svg',
     description: (
       <>
-        Apps are meant to be used to make decisions in the real world.<br /><a href="docs/impact">Browse some of our examples →</a>
+        R is the language of statistical computing, Shiny is the fastest way to build interactive data science applications.<br /><a href="docs/impact">Read more →</a>
+      </>
+    ),
+  },
+  {
+    title: <>Containers</>,
+    imageUrl: 'img/undraw_abstract_x68e_build.svg',
+    description: (
+      <>
+        Containers provide portability, consistency, and are used for packaging, deploying, and running cloud-native data science applications.<br /><a href="docs/development">Read more →</a>
+      </>
+    ),
+  },
+  {
+    title: <>ShinyProxy</>,
+    imageUrl: 'img/undraw_programmer_imem_operate.svg',
+    description: (
+      <>
+        Run data science applications with no limit on concurrent usage, add security, authentication, and authorization.<br /><a href="docs/operations">Read more →</a>
       </>
     ),
   },

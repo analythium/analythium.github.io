@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Analythium Hub',
-  tagline: 'We build and operate rock solid analytics solutions so you can manage your business better',
+  tagline: 'Cloud native analytics powered by open source',
   url: 'https://hub.analythium.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
