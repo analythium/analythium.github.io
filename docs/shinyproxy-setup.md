@@ -19,7 +19,7 @@ You can use [this referral link](https://m.do.co/c/a8041699739d) to sign up to D
 You can use your preferred cloud provider or bare metal server
 running Ubuntu (18.04 or 20.04) for ShinyProxy. But the rest
 of the tutorial assumes that you use DigitalOcean droplet
-with Using Ubuntu 20.04 (LTS).
+with Ubuntu 20.04 (LTS).
 :::
 
 Use DigitalOcean control panel to create a Droplet based on the
@@ -195,7 +195,7 @@ Now `cd ~` back to the home (`/root`) folder to continue.
 
 ShinyProxy is now can be accessed at `YOUR_IP_ADDRESS:8080`. We can set the port to 80
 which is the standard HTTP port.
-Install nginx:
+Install Nginx:
 
 ```bash
 sudo apt-get install nginx
