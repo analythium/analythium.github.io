@@ -70,3 +70,4 @@ Further reading:
 * [Get started with Docker](https://docs.docker.com/get-started/)
 * [Docker simplified](https://www.freecodecamp.org/news/docker-simplified-96639a35ff36/)
 * [Docker for beginners](https://docker-curriculum.com/)
+* [Docker glossary](https://docs.docker.com/glossary/)
