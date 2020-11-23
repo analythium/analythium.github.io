@@ -102,7 +102,7 @@ or the [open source Shiny server](https://rstudio.com/products/shiny/download-se
 One particular option that we will review in depth is the
 deployment of Shiny apps via Docker and ShinyProxy. Read on!
 
-Further reading:
-
+:::note Further reading
 * [Deployment](https://shiny.rstudio.com/deploy/)
 * [Sharing Shiny apps](https://shiny.rstudio.com/tutorial/written-tutorial/lesson7/)
+:::

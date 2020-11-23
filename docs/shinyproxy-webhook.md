@@ -1,6 +1,6 @@
 ---
 id: shinyproxy-webhook
-title: CICD for ShinyProxy Using Webhook
+title: CI/CD with Webhook
 ---
 
 Text comes here.

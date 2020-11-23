@@ -65,9 +65,9 @@ The most common Docker CLI commands are:
 
 We will learn more about these commands as part of the worked Shiny example.
 
-Further reading:
-
+:::note Further reading
 * [Get started with Docker](https://docs.docker.com/get-started/)
 * [Docker simplified](https://www.freecodecamp.org/news/docker-simplified-96639a35ff36/)
 * [Docker for beginners](https://docker-curriculum.com/)
 * [Docker glossary](https://docs.docker.com/glossary/)
+:::

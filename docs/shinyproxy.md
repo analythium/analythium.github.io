@@ -11,11 +11,15 @@ keywords:
 image: https://source.unsplash.com/M5tzZtFCOfs
 ---
 
-![Operations stage](../../img/undraw_programmer_imem_operate.svg)
+[ShinyProxy](https://www.shinyproxy.io/) is an open source platform to deploy R Shiny applications at scale in companies and larger organizations. Shiny applications are interactive web applications for bringing data science to end users.
 
-Once our solution is ready to be showcased, we deploy it using
-industry best practices, such as continuous integration and continuous delivery.
-We maintain the apps on secure servers and give access to authenticated users.
-We use tested technologies and [customize our operations](operations)
-to match the needs of our customers.
+![ShinyProxy](../../img/shinyproxy/shinyproxy.png 'ShinyProxy')
 
+ShinyProxy builds on enterprise Java and Docker technology to meet corporate needs in deploying Shiny applications, such as authentication, authorization (LDAP, ActiveDirectory, Social login, etc.) and secure traffic, allocating resources (CPU, memory limits) per Shiny application, usage statistics and administrator views for monitoring, API for integrating of Shiny apps in larger applications.
+
+The following sections will show how to set up, secure, and maintain ShinyProxy:
+
+1. [setup](shinyproxy-setup) your ShinyProxy server,
+2. [secure](shinyproxy-secure) ShinyProxy with HTTPS,
+3. [update](shinyproxy-update) your ShinyProxy server,
+4. add CI/CD for ShinyProxy using [Webhook](shinyproxy-webhook).

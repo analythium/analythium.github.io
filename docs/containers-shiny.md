@@ -54,9 +54,13 @@ docker login registry.gitlab.com
 ```
 
 This command will ask for our credentials interactively. If you want to provide
-your username and password. It is recommended to use a personal access token (PAT)
+your username and password. 
+
+:::caution
+It is recommended to use a personal access token (PAT)
 instead of your password because PAT can have more restricted scopes, i.e.
-only used to access the container registry which is a lot more secure:
+only used to access the container registry which is a lot more secure.
+:::
 
 ```bash
 cat ~/my_password.txt | docker login --username USER --password-stdin
@@ -188,10 +192,13 @@ The next command sets options in the `Rprofile.site` file which are going to be 
 RUN echo "local(options(shiny.port = 3838, shiny.host = '0.0.0.0'))" > /usr/lib/R/etc/Rprofile.site
 ```
 
-The following command creates a linux group and user, both called `app`.
-This is a rather important security consideration for containers:
-we do not want the container to run as root. Running the container with root privileges allows unrestricted use which is to be avoided in production
+:::caution
+We do not want the container to run as root. Running the container with root privileges allows unrestricted use which is to be avoided in production
 (read more about advantages [here](https://engineering.bitnami.com/articles/why-non-root-containers-are-important-for-security.html)):
+:::
+
+The following command creates a linux group and user, both called `app`.
+This user will have access to the app instead of the default root user:
 
 ```Dockerfile
 RUN addgroup --system app \
@@ -277,10 +284,10 @@ build-app:
 This will build the Docker image and push it to the container registry.
 The pipeline results can be seen [here](https://gitlab.com/analythium/shinyproxy-hello/-/pipelines), the image is [here](https://gitlab.com/analythium/shinyproxy-hello/container_registry).
 
-Further reading:
-
+:::note Further reading
 * [R Docker tutorial](https://ropenscilabs.github.io/r-docker-tutorial/)
 * [Docker for R users](https://colinfay.me/docker-r-reproducibility/)
 * [An Introduction to Rocker](https://journal.r-project.org/archive/2017/RJ-2017-065/RJ-2017-065.pdf)
 * [The Rockerverse](https://journal.r-project.org/archive/2020/RJ-2020-007/RJ-2020-007.pdf)
 * [GitLab CI/CD](https://docs.gitlab.com/ee/ci/introduction/)
+:::

@@ -66,9 +66,9 @@ This is going to be added to the body of the HTML page rendered by Shiny.
 The final HTML page will also contain all the JavaScript and CSS
 dependencies required to make the app interactive and styled properly.
 
-Further reading:
-
+:::note Further reading
 * [Layout the user interface](https://shiny.rstudio.com/tutorial/written-tutorial/lesson2/)
 * [Control widgets](https://shiny.rstudio.com/tutorial/written-tutorial/lesson3/)
 * [Basic UI](https://mastering-shiny.org/basic-ui.html)
 * [Dynamic UI](https://mastering-shiny.org/action-dynamic.html)
+:::

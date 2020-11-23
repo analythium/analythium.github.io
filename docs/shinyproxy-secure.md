@@ -1,6 +1,6 @@
 ---
 id: shinyproxy-secure
-title: Securing ShinyProxy
+title: Secure ShinyProxy
 ---
 
 Text comes here.

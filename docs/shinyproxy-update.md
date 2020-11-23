@@ -1,6 +1,6 @@
 ---
 id: shinyproxy-update
-title: Updating the ShinyProxy Instance
+title: Update ShinyProxy
 ---
 
 Text comes here.

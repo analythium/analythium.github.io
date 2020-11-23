@@ -27,8 +27,8 @@ server <- function(input, output) {
 The `output` object contains the output objects, in our case the rendered plot.
 `input` and `output` together describe the state of the app.
 
-Further reading:
-
+:::note Further reading
 * [Reactive output](https://shiny.rstudio.com/tutorial/written-tutorial/lesson4/)
 * [Basic reactivity](https://mastering-shiny.org/basic-reactivity.html)
 * [Reactive expressions](https://shiny.rstudio.com/tutorial/written-tutorial/lesson6/)
+:::
