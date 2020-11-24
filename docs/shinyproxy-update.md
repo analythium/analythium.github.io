@@ -64,7 +64,7 @@ The following command line arguments need to be passed to the `setup.sh` script:
 The script then takes care of the rest:
 
 1. Copies the `application.yml` to the droplet,
-2. pulls the Docker images listed in the `application.yml` file,
+2. pulls the Docker images listed in the `application.yml` file: updates the ones already pulled before, and the ones newly added too,
 3. and restarts the ShinyProxy and Docker services.
 
 ## Cron
@@ -90,6 +90,9 @@ The second command updates all the images that are already present.
 Check settings using `crontab -l`.
 
 Cron jobs represent a polling type of update, which means we are regularly checking for updates. However, if changes to the images are infrequent, there is no need for constant polling. Setting cron intervals too large might lead to missing important updates.
+
+![API polling vs webhook](../../img/shinyproxy/webhook.png 'API polling vs webhook')
+
 Webhooks in general are [considered a better alternative to polling](https://blog.cloud-elements.com/webhooks-vs-polling-youre-better-than-this), although webhooks require a bit more work. The next section will explain how to do it.
 
 :::note Further reading

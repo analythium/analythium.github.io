@@ -324,3 +324,9 @@ image name and the tag:
 ```
 
 Set webhook url as `https://YOUR_IP_OR_DOMAIN:9000/hooks/pull-one-dockerhub`.
+
+## Wrapping up
+
+At the end of all this, we have the full CI/CD experience over HTTPS:
+
+![CI/CD workflow](../../img/shinyproxy/workflow.png 'CI/CD workflow')
