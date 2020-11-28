@@ -8,8 +8,7 @@ tags: [Analythium, Hello, Hub]
 draft: false
 ---
 
-Welcome to the Analythium Hub! In this corner of the Internet, we talk about how we make things.
-The Hub is a website for [Analythium](https://analythium.io)'s public and open source projects.
+Welcome to the Analythium Hub! In this corner of the Internet, we talk about how we make things. The Hub is a website for [Analythium](https://analythium.io)'s public and open source projects.
 
 <!--truncate-->
 
