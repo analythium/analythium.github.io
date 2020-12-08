@@ -57,7 +57,7 @@ function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Rock solid and open source analytics at your service <head />">
+      description="Cloud-native analytics powered by open source">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>

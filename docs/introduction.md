@@ -17,5 +17,5 @@ image: https://source.unsplash.com/br9D5K3UTRQ
 We build cloud-native analytics solutions powered by open source software:
 
 1. we use R [Shiny](shiny) to quickly build interactive prototypes and production-ready application,
-2. we use [container](container) technology for packaging, deploying, and running applications,
+2. we use [container](containers) technology for packaging, deploying, and running applications,
 3. we use [ShinyProxy](shinyproxy) to serve containerized Shiny applications at scale.
