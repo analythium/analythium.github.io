@@ -70,3 +70,7 @@ The following sections will show how Shiny apps are structured:
 1. the [user interface (UI)](shiny-ui),
 2. the [server function](shiny-server),
 3. and the [app](shiny-app) that contains the UI and the server.
+
+:::tip Contact us!
+Reach out to [Analythium](https://analythium.io/contact) if you need commercial support and consulting services!
+:::

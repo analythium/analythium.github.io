@@ -24,3 +24,7 @@ project provides different base images for R.
 
 In this section we will review how to containerize a Shiny application,
 first reviewing the basics of [working with Docker](containers-docker), than we'll see how to create a [Docker image with a Shiny app](containers-shiny).
+
+:::tip Contact us!
+Do you need advice about containers? Reach out to [Analythium](https://analythium.io/contact) if you need commercial support and consulting services!
+:::

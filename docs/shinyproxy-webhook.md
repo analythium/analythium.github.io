@@ -330,3 +330,7 @@ Set webhook url as `https://YOUR_IP_OR_DOMAIN:9000/hooks/pull-one-dockerhub`.
 At the end of all this, we have the full CI/CD experience over HTTPS:
 
 ![CI/CD workflow](../../img/shinyproxy/workflow.png 'CI/CD workflow')
+
+:::tip Contact us!
+Would you like to run your own ShinyProxy server with CICD pipelines? Reach out to [Analythium](https://analythium.io/contact) if you need commercial support and consulting services!
+:::

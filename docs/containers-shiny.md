@@ -291,3 +291,7 @@ The pipeline results can be seen [here](https://gitlab.com/analythium/shinyproxy
 * [The Rockerverse](https://journal.r-project.org/archive/2020/RJ-2020-007/RJ-2020-007.pdf)
 * [GitLab CI/CD](https://docs.gitlab.com/ee/ci/introduction/)
 :::
+
+:::tip Contact us!
+Are you considering to build a Shiny app? Do you need advice about containers? Reach out to [Analythium](https://analythium.io/contact) if you need commercial support and consulting services!
+:::

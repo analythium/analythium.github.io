@@ -23,3 +23,7 @@ The following sections will show how to set up, secure, and maintain ShinyProxy:
 2. [secure](shinyproxy-secure) ShinyProxy with HTTPS,
 3. [update](shinyproxy-update) your ShinyProxy server,
 4. add CI/CD for ShinyProxy using [Webhook](shinyproxy-webhook).
+
+:::tip Contact us!
+Would you like to run your own ShinyProxy server? Reach out to [Analythium](https://analythium.io/contact) if you need commercial support and consulting services!
+:::
