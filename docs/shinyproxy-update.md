@@ -6,7 +6,7 @@ title: Update ShinyProxy
 Once your ShinyProxy server is up and running, you need to maintain and update it.
 This section explains how to update existing apps and how to add new ones hassle free.
 
-[![DO button](https://raw.githubusercontent.com/analythium/shinyproxy-1-click/master/digitalocean/images/do-btn-blue.svg)](https://marketplace.digitalocean.com/apps/shinyproxy)
+[![DO button](https://raw.githubusercontent.com/analythium/shinyproxy-1-click/master/digitalocean/images/do-btn-blue.svg)](https://marketplace.digitalocean.com/apps/shinyproxy?refcode=a8041699739d)
 
 ## Edit configuration
 

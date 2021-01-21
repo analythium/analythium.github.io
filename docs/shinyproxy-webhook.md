@@ -7,7 +7,7 @@ This guide explains how to set up webhook for ShinyProxy.
 We assume ShinyProxy is running on DigitalOcean droplet
 with Ubuntu 20.04 (LTS).
 
-[![DO button](https://raw.githubusercontent.com/analythium/shinyproxy-1-click/master/digitalocean/images/do-btn-blue.svg)](https://marketplace.digitalocean.com/apps/shinyproxy)
+[![DO button](https://raw.githubusercontent.com/analythium/shinyproxy-1-click/master/digitalocean/images/do-btn-blue.svg)](https://marketplace.digitalocean.com/apps/shinyproxy?refcode=a8041699739d)
 
 ## Port for webhook
 

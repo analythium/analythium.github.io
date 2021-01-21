@@ -22,4 +22,4 @@ The 1-Click option lets you deploy ShinyProxy on DigitalOcean droplets in fully-
 
 You can use [this referral link](https://m.do.co/c/a8041699739d) to sign up to DigitalOcean if you don't yet have an account.
 
-[![DO button](https://raw.githubusercontent.com/analythium/shinyproxy-1-click/master/digitalocean/images/do-btn-blue.svg)](https://marketplace.digitalocean.com/apps/shinyproxy)
+[![DO button](https://raw.githubusercontent.com/analythium/shinyproxy-1-click/master/digitalocean/images/do-btn-blue.svg)](https://marketplace.digitalocean.com/apps/shinyproxy?refcode=a8041699739d)
