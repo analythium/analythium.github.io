@@ -142,10 +142,4 @@ module.exports = {
     },
     'gascript.js',
   ],
-  plugins: ['docusaurus-plugin-fathom'],
-  themeConfig: {
-    fathomAnalytics: {
-      siteId: 'OPNOZMYF',
-    },
-  },
 };
