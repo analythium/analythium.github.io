@@ -136,10 +136,14 @@ module.exports = {
   ],
   scripts: [
     {
-      src:
-        'https://www.googletagmanager.com/gtag/js?id=UA-147215898-3',
+      src: 'https://www.googletagmanager.com/gtag/js?id=UA-147215898-3',
       async: true,
     },
     'gascript.js',
+    {
+      src: 'https://cdn.usefathom.com/script.js',
+      'data-site': 'XXTESXHY',
+      defer: true,
+    },
   ],
 };
