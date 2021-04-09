@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Analythium Hub Blog</title>
+        <link>https://hub.analythium.io/blog</link>
+        <description>Analythium Hub Blog</description>
+        <lastBuildDate>Fri, 20 Nov 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2021 Analythium Solutions Inc.</copyright>
+        <item>
+            <title><![CDATA[ShinyProxy 1-click App]]></title>
+            <link>https://hub.analythium.io/blog/2020/11/20/shinyproxy-1-click-app</link>
+            <guid>ShinyProxy 1-click App</guid>
+            <pubDate>Fri, 20 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Deploying interactive R Shiny applications at scale is easier than ever using the 1-Click ShinyProxy app by Analythium from the DigitalOcean Marketplace.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to the Hub!]]></title>
+            <link>https://hub.analythium.io/blog/2020/06/03/welcome-to-the-hub</link>
+            <guid>Welcome to the Hub!</guid>
+            <pubDate>Wed, 03 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the Analythium Hub! In this corner of the Internet, we talk about how we make things. The Hub is a website for Analythium's public and open source projects.]]></description>
+        </item>
+    </channel>
+</rss>
