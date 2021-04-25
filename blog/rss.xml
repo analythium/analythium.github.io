@@ -4,10 +4,17 @@
         <title>Analythium Hub Blog</title>
         <link>https://hub.analythium.io/blog</link>
         <description>Analythium Hub Blog</description>
-        <lastBuildDate>Fri, 20 Nov 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2021 Analythium Solutions Inc.</copyright>
+        <item>
+            <title><![CDATA[Hosting Data Apps Website]]></title>
+            <link>https://hub.analythium.io/blog/2021/04/25/hosting-data-apps-website</link>
+            <guid>Hosting Data Apps Website</guid>
+            <pubDate>Sun, 25 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[You mastered Shiny and Dash, you followed best practices and your data application is production-ready. Now you only have to deploy and host your app. Information about hosting data apps is scattered around the Internet and often incomplete. The goal of the Hosting Data Apps website is to help you learn about your hosting options and to pick the option that suits your needs best.]]></description>
+        </item>
         <item>
             <title><![CDATA[ShinyProxy 1-click App]]></title>
             <link>https://hub.analythium.io/blog/2020/11/20/shinyproxy-1-click-app</link>
