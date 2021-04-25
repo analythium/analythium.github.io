@@ -67,6 +67,7 @@ The final HTML page will also contain all the JavaScript and CSS
 dependencies required to make the app interactive and styled properly.
 
 :::note Further reading
+* [The anatomy of a Shiny application](https://hosting.analythium.io/the-anatomy-of-a-shiny-application?utm_source=as-hub&utm_medium=web&utm_campaign=launch-april-2021)
 * [Layout the user interface](https://shiny.rstudio.com/tutorial/written-tutorial/lesson2/)
 * [Control widgets](https://shiny.rstudio.com/tutorial/written-tutorial/lesson3/)
 * [Basic UI](https://mastering-shiny.org/basic-ui.html)

@@ -103,6 +103,8 @@ One particular option that we will review in depth is the
 deployment of Shiny apps via Docker and ShinyProxy. Read on!
 
 :::note Further reading
+* [Run Shiny apps locally](https://hosting.analythium.io/run-shiny-apps-locally?utm_source=as-hub&utm_medium=web&utm_campaign=launch-april-2021)
+* [The anatomy of a Shiny application](https://hosting.analythium.io/the-anatomy-of-a-shiny-application?utm_source=as-hub&utm_medium=web&utm_campaign=launch-april-2021)
 * [Deployment](https://shiny.rstudio.com/deploy/)
 * [Sharing Shiny apps](https://shiny.rstudio.com/tutorial/written-tutorial/lesson7/)
 :::
