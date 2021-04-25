@@ -12,7 +12,7 @@ You mastered Shiny and Dash, you followed best practices and your data applicati
 
 <!--truncate-->
 
-![Hosting Data Apps](../../img/hosting/hosting.gif 'Hosting Data Apps')
+![Hosting Data Apps](https://hub.analythium.io/img/hosting/hosting.gif 'Hosting Data Apps')
 
 Read more about the motivation behind the website in our [opening post](https://hosting.analythium.io/welcome-to-hosting-data-apps?utm_source=as-hub&utm_medium=web&utm_campaign=launch-april-2021).
 
