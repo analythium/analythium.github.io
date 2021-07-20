@@ -3,6 +3,8 @@ id: shiny-app
 title: Shiny App
 ---
 
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+
 With the [UI](shiny-ui)
 and the [server function](shiny-server),
 we can run the Shiny app locally:
@@ -109,6 +111,4 @@ deployment of Shiny apps via Docker and ShinyProxy. Read on!
 * [Sharing Shiny apps](https://shiny.rstudio.com/tutorial/written-tutorial/lesson7/)
 :::
 
-:::tip Contact us!
-Are you considering a web application? Reach out to [Analythium](https://analythium.io/contact) if you need commercial support and consulting services!
-:::
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)

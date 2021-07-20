@@ -3,6 +3,8 @@ id: containers-docker
 title: Docker Basics
 ---
 
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+
 ## What is Docker
 
 According to the [Docker docs](https://docs.docker.com/):
@@ -71,3 +73,5 @@ We will learn more about these commands as part of the worked Shiny example.
 * [Docker for beginners](https://docker-curriculum.com/)
 * [Docker glossary](https://docs.docker.com/glossary/)
 :::
+
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)

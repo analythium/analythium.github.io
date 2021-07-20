@@ -3,6 +3,8 @@ id: shiny-ui
 title: Shiny UI
 ---
 
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+
 The user interface (UI) object controls the layout and appearance of the
 Shiny app.
 
@@ -73,3 +75,5 @@ dependencies required to make the app interactive and styled properly.
 * [Basic UI](https://mastering-shiny.org/basic-ui.html)
 * [Dynamic UI](https://mastering-shiny.org/action-dynamic.html)
 :::
+
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)

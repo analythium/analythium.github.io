@@ -3,6 +3,8 @@ id: shinyproxy-setup
 title: Set Up ShinyProxy
 ---
 
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+
 The ShinyProxy chapter here describes how to set up and customize your very own ShinyProxy server on Ubuntu (18.04 or 20.04).
 
 If you are short on time, the __1-Click option__ lets you deploy ShinyProxy on DigitalOcean droplets in fully-tested app environments.
@@ -261,6 +263,4 @@ To                         Action      From
 80/tcp (v6)                ALLOW       Anywhere (v6)
 ```
 
-:::tip Contact us!
-Would you like to run your own ShinyProxy server? Reach out to [Analythium](https://analythium.io/contact) if you need commercial support and consulting services!
-:::
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)

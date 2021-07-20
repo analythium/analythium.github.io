@@ -3,6 +3,8 @@ id: shinyproxy-update
 title: Update ShinyProxy
 ---
 
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+
 Once your ShinyProxy server is up and running, you need to maintain and update it.
 This section explains how to update existing apps and how to add new ones hassle free.
 
@@ -99,6 +101,4 @@ Webhooks in general are [considered a better alternative to polling](https://blo
 * [Cron guide](https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804)
 :::
 
-:::tip Contact us!
-Would you like to run your own ShinyProxy server? Reach out to [Analythium](https://analythium.io/contact) if you need commercial support and consulting services!
-:::
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)

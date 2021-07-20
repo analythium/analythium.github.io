@@ -11,6 +11,8 @@ keywords:
 image: https://source.unsplash.com/uBe2mknURG4
 ---
 
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+
 Containers provide portability, consistency, and are used for packaging, deploying, and running cloud-native data science applications.
 
 [Docker](https://www.docker.com/) is the most popular virtualization environment to
@@ -25,6 +27,4 @@ project provides different base images for R.
 In this section we will review how to containerize a Shiny application,
 first reviewing the basics of [working with Docker](containers-docker), than we'll see how to create a [Docker image with a Shiny app](containers-shiny).
 
-:::tip Contact us!
-Do you need advice about containers? Reach out to [Analythium](https://analythium.io/contact) if you need commercial support and consulting services!
-:::
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)

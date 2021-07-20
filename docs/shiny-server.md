@@ -3,6 +3,8 @@ id: shiny-server
 title: Server Function
 ---
 
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+
 The server function contains the instructions for the reactivity needed for the Shiny app.
 
 The following function takes two arguments: `input` and `output`. These
@@ -33,3 +35,5 @@ The `output` object contains the output objects, in our case the rendered plot.
 * [Basic reactivity](https://mastering-shiny.org/basic-reactivity.html)
 * [Reactive expressions](https://shiny.rstudio.com/tutorial/written-tutorial/lesson6/)
 :::
+
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)

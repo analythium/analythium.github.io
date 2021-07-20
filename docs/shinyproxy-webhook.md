@@ -3,6 +3,8 @@ id: shinyproxy-webhook
 title: CI/CD with Webhook
 ---
 
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+
 This guide explains how to set up webhook for ShinyProxy.
 We assume ShinyProxy is running on DigitalOcean droplet
 with Ubuntu 20.04 (LTS).
@@ -334,3 +336,5 @@ At the end of all this, we have the full CI/CD experience over HTTPS:
 :::tip Contact us!
 Would you like to run your own ShinyProxy server with CICD pipelines? Reach out to [Analythium](https://analythium.io/contact) if you need commercial support and consulting services!
 :::
+
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
