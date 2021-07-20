@@ -11,6 +11,8 @@ keywords:
 image: https://source.unsplash.com/3GZi6OpSDcY
 ---
 
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+
 R is the language of statistical computing, Shiny is the fastest way to build interactive data science applications.
 
 ![Shiny from RStudio](../../img/shiny/shiny-rstudio.png 'Shiny from RStudio')
@@ -65,14 +67,10 @@ We are going to build this simple Shiny app next.
 
 ### Structure of a Shiny app
 
-[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
-
 The following sections will show how Shiny apps are structured:
 
 1. the [user interface (UI)](shiny-ui),
 2. the [server function](shiny-server),
 3. and the [app](shiny-app) that contains the UI and the server.
 
-:::tip Contact us!
-Reach out to [Analythium](https://analythium.io/contact) if you need commercial support and consulting services!
-:::
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
