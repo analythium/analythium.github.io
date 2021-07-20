@@ -24,4 +24,4 @@ accessible technical documentation for our projects.
 If you have questions or would like to contact us, feel free to find us
 on one of the channels listed in the footer section of the website.
 
-[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/?utm_source=as-hub&utm_medium=web&utm_campaign=evergreen)

@@ -3,7 +3,7 @@ id: shinyproxy-secure
 title: Secure ShinyProxy
 ---
 
-[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/?utm_source=as-hub&utm_medium=web&utm_campaign=evergreen)
 
 This document guides you through TLS setup for ShinyProxy 1-click app
 
@@ -96,4 +96,4 @@ you control the domain you are requesting a certificate for.
 
 Run this command for a dry run: `sudo certbot renew --dry-run`.
 
-[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/?utm_source=as-hub&utm_medium=web&utm_campaign=evergreen)

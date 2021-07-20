@@ -3,7 +3,7 @@ id: shiny-ui
 title: Shiny UI
 ---
 
-[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/?utm_source=as-hub&utm_medium=web&utm_campaign=evergreen)
 
 The user interface (UI) object controls the layout and appearance of the
 Shiny app.
@@ -69,11 +69,11 @@ The final HTML page will also contain all the JavaScript and CSS
 dependencies required to make the app interactive and styled properly.
 
 :::note Further reading
-* [The anatomy of a Shiny application](https://hosting.analythium.io/the-anatomy-of-a-shiny-application?utm_source=as-hub&utm_medium=web&utm_campaign=launch-april-2021)
+* [The anatomy of a Shiny application](https://hosting.analythium.io/?utm_source=as-hub&utm_medium=web&utm_campaign=evergreenthe-anatomy-of-a-shiny-application?utm_source=as-hub&utm_medium=web&utm_campaign=launch-april-2021)
 * [Layout the user interface](https://shiny.rstudio.com/tutorial/written-tutorial/lesson2/)
 * [Control widgets](https://shiny.rstudio.com/tutorial/written-tutorial/lesson3/)
 * [Basic UI](https://mastering-shiny.org/basic-ui.html)
 * [Dynamic UI](https://mastering-shiny.org/action-dynamic.html)
 :::
 
-[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/?utm_source=as-hub&utm_medium=web&utm_campaign=evergreen)

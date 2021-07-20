@@ -3,7 +3,7 @@ id: containers-shiny
 title: Shiny in Docker
 ---
 
-[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/?utm_source=as-hub&utm_medium=web&utm_campaign=evergreen)
 
 This section is based on the
 [analythium/shinyproxy-hello](https://gitlab.com/analythium/shinyproxy-hello/) GitLab project. The demo Shiny app displays a slider and a histogram
@@ -294,4 +294,4 @@ The pipeline results can be seen [here](https://gitlab.com/analythium/shinyproxy
 * [GitLab CI/CD](https://docs.gitlab.com/ee/ci/introduction/)
 :::
 
-[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/?utm_source=as-hub&utm_medium=web&utm_campaign=evergreen)

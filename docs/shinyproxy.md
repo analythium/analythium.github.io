@@ -11,7 +11,7 @@ keywords:
 image: https://source.unsplash.com/M5tzZtFCOfs
 ---
 
-[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/?utm_source=as-hub&utm_medium=web&utm_campaign=evergreen)
 
 [ShinyProxy](https://www.shinyproxy.io/) is an open source platform to deploy R Shiny applications at scale in companies and larger organizations. Shiny applications are interactive web applications for bringing data science to end users.
 
@@ -26,4 +26,4 @@ The following sections will show how to set up, secure, and maintain ShinyProxy:
 3. [update](shinyproxy-update) your ShinyProxy server,
 4. add CI/CD for ShinyProxy using [Webhook](shinyproxy-webhook).
 
-[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/?utm_source=as-hub&utm_medium=web&utm_campaign=evergreen)

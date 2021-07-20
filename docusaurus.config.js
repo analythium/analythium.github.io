@@ -15,7 +15,7 @@ module.exports = {
     announcementBar: {
       id: 'supportus',
       content:
-        '⭐️ Check out our <a target="_blank" rel="noopener noreferrer" href="https://hosting.analythium.io?utm_source=as-hub&utm_medium=web&utm_campaign=launch-april-2021">Hosting Data Apps website</a>! ⭐️',
+        '⭐️ Check out our <a target="_blank" rel="noopener noreferrer" href="https://hosting.analythium.io/?utm_source=as-hub&utm_medium=web&utm_campaign=evergreen">Hosting Data Apps website</a>! ⭐️',
       backgroundColor: '#ce93d8',
       textColor: '#091E42'
     },
