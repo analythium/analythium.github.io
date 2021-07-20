@@ -16,3 +16,4 @@ You mastered Shiny and Dash, you followed best practices and your data applicati
 
 Read more about the motivation behind the website in our [opening post](https://hosting.analythium.io/welcome-to-hosting-data-apps?utm_source=as-hub&utm_medium=web&utm_campaign=launch-april-2021).
 
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
