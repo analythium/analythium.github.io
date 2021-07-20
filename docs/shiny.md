@@ -65,6 +65,8 @@ We are going to build this simple Shiny app next.
 
 ### Structure of a Shiny app
 
+[![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/)
+
 The following sections will show how Shiny apps are structured:
 
 1. the [user interface (UI)](shiny-ui),
