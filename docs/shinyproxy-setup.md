@@ -12,7 +12,6 @@ You can use [this referral link](https://m.do.co/c/a8041699739d) to sign up to D
 
 [![DO button](https://raw.githubusercontent.com/analythium/shinyproxy-1-click/master/digitalocean/images/do-btn-blue.svg)](https://marketplace.digitalocean.com/apps/shinyproxy?refcode=a8041699739d)
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aoIlaOYRpQs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Create a VM
@@ -73,7 +72,7 @@ Check to see if Docker is running `sudo service docker status`.
 ShinyProxy needs to connect to the docker daemon to spin up the containers for the apps.
 By default ShinyProxy will do so on port 2375 of the docker host.
 In order to allow for connections on port 2375, the startup options need to be edited
-following the ShinyProxy [guide](https://www.shinyproxy.io/getting-started/#docker-startup-options).
+following the ShinyProxy [guide](https://www.shinyproxy.io/documentation/getting-started/#docker-startup-options).
 
 On an Ubuntu 16.04 LTS or higher that uses `systemd`,
 one can create a file `/etc/systemd/system/docker.service.d/override.conf`:
@@ -103,7 +102,7 @@ The `sudo systemctl enable docker` enables Docker service start when the system 
 
 ### ShinyProxy
 
-We download the 2.4.0 version of Shinyproxy (in case of newer version, just change the file name accordingly, check for updates [here](https://www.shinyproxy.io/downloads/)):
+We download the 2.4.0 version of ShinyProxy (in case of newer version, just change the file name accordingly, check for updates [here](https://www.shinyproxy.io/downloads/)):
 
 ```bash
 sudo wget https://www.shinyproxy.io/downloads/shinyproxy_2.4.0_amd64.deb
@@ -161,7 +160,7 @@ proxy:
   - id: 01_hello
     display-name: Hello Shiny App
     description: A simple reactive histogram
-    container-cmd: ["R", "-e", "shiny::runApp('/root/app')"]
+    container-cmd: ["R", "-e", "shiny::runApp('/home/app')"]
     container-image: registry.gitlab.com/analythium/shinyproxy-hello/hello:latest
     logo-url: https://github.com/analythium/shinyproxy-1-click/raw/master/digitalocean/images/app-hist.png
     access-groups: [admins, users]
