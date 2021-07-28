@@ -167,14 +167,14 @@ proxy:
   - id: 02_hello
     display-name: Demo Shiny App
     description: App with sliders and large file upload
-    container-cmd: ["R", "-e", "shiny::runApp('/root/app')"]
+    container-cmd: ["R", "-e", "shiny::runApp('/home/app')"]
     container-image: analythium/shinyproxy-demo:latest
     logo-url: https://github.com/analythium/shinyproxy-1-click/raw/master/digitalocean/images/app-dots.png
     access-groups: [admins]
 
 logging:
   file:
-    shinyproxy.log
+    name: shinyproxy.log
 
 spring:
   servlet:
