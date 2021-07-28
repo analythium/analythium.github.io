@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hub.analythium.io/blog</id>
     <title>Analythium Hub Blog</title>
-    <updated>2021-04-25T00:00:00.000Z</updated>
+    <updated>2021-07-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hub.analythium.io/blog"/>
     <subtitle>Analythium Hub Blog</subtitle>
     <icon>https://hub.analythium.io/img/favicon.ico</icon>
     <rights>Copyright © 2021 Analythium Solutions Inc.</rights>
+    <entry>
+        <title type="html"><![CDATA[ShinyProxy 2.5.0 1-click Upgrade]]></title>
+        <id>ShinyProxy 2.5.0 1-click Upgrade</id>
+        <link href="https://hub.analythium.io/blog/2021/07/27/shinyproxy-2-5-0"/>
+        <updated>2021-07-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The ShinyProxy 1-Click App in the DigitalOcean Marketplace was recently updated to ShinyProxy 2.5.0.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hosting Data Apps Website]]></title>
         <id>Hosting Data Apps Website</id>

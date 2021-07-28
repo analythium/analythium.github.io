@@ -4,10 +4,17 @@
         <title>Analythium Hub Blog</title>
         <link>https://hub.analythium.io/blog</link>
         <description>Analythium Hub Blog</description>
-        <lastBuildDate>Sun, 25 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2021 Analythium Solutions Inc.</copyright>
+        <item>
+            <title><![CDATA[ShinyProxy 2.5.0 1-click Upgrade]]></title>
+            <link>https://hub.analythium.io/blog/2021/07/27/shinyproxy-2-5-0</link>
+            <guid>ShinyProxy 2.5.0 1-click Upgrade</guid>
+            <pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The ShinyProxy 1-Click App in the DigitalOcean Marketplace was recently updated to ShinyProxy 2.5.0.]]></description>
+        </item>
         <item>
             <title><![CDATA[Hosting Data Apps Website]]></title>
             <link>https://hub.analythium.io/blog/2021/04/25/hosting-data-apps-website</link>

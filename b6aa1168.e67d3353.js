@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[35],{166:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"digital-ocean","name":"digitalocean","count":2,"permalink":"/blog/tags/digital-ocean"}')}}]);
