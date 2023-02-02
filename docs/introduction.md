@@ -21,7 +21,7 @@ We build cloud-native analytics solutions powered by open source software:
 3. we use [ShinyProxy](shinyproxy) to serve containerized Shiny applications at scale.
 
 :::tip Contact us!
-Reach out to [Analythium](https://analythium.io/contact) if you need commercial support and consulting services!
+Reach out to [Analythium](https://analythium.io/#contact) if you need commercial support and consulting services!
 :::
 
 [![Analythium](http://hub.analythium.io/assets/web/cta-001.png)](https://www.analythium.io/)

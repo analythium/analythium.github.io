@@ -334,7 +334,7 @@ At the end of all this, we have the full CI/CD experience over HTTPS:
 ![CI/CD workflow](../../img/shinyproxy/workflow.png 'CI/CD workflow')
 
 :::tip Contact us!
-Would you like to run your own ShinyProxy server with CICD pipelines? Reach out to [Analythium](https://analythium.io/contact) if you need commercial support and consulting services!
+Would you like to run your own ShinyProxy server with CICD pipelines? Reach out to [Analythium](https://analythium.io/#contact) if you need commercial support and consulting services!
 :::
 
 [![Hosting Data Apps](https://hub.analythium.io/assets/marks/hosting-banner-2.jpg)](https://hosting.analythium.io/?utm_source=as-hub&utm_medium=web&utm_campaign=evergreen)
